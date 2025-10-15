@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p1",
+    "name": "Aisha Khan",
+    "age": 28,
+    "contact": "9876543210",
+    "notes": "Diabetic, regular checkups."
+  },
+  {
+    "id": "p2",
+    "name": "Rahul Verma",
+    "age": 35,
+    "contact": "9123456780",
+    "notes": "Allergic to penicillin."
+  },
+  {
+    "id": "p3",
+    "name": "Sana Ali",
+    "age": 42,
+    "contact": "9988776655",
+    "notes": "Recovering from surgery."
+  },
+  {
+    "id": "p4",
+    "name": "Vikram Singh",
+    "age": 50,
+    "contact": "9012345678",
+    "notes": "High blood pressure."
+  },
+  {
+    "id": "p5",
+    "name": "Meera Patel",
+    "age": 31,
+    "contact": "9567891234",
+    "notes": "Pregnancy - 2nd trimester."
+  }
+]
